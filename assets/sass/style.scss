@@ -1,0 +1,22 @@
+/*
+Template Name: Site Namte
+Template URI: 
+Author: CodeZenix.
+Author URI: https://www.siteurl.com
+Description: 
+Version: 1.0.0
+*/
+
+
+/*--------------------------------------------------------------
+>>> TABLE OF CONTENTS:
+----------------------------------------------------------------*/
+@import "variables-site/variables-site";
+@import "mixins/mixins-master";
+@import "base/typography";
+@import "animations/animations";
+@import "components/components";
+@import "layouts/layout";
+@import "pages/pages";
+
+// sass --watch D:\Inhouse\projectName\assets\sass\style.scss:D:\Inhouse\projectName\assets\css\style.css
